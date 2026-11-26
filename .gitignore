@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+
+# 每個人的校正結果都不同（解析度、GUI 縮放、語言），不進版控
+config.json
+calibration/
+debug/
